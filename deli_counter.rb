@@ -9,3 +9,5 @@ def line(katz_deli)
 end
 
 puts "The line is currently empty."
+
+def take_a_number(katz_deli, name)
